@@ -1,12 +1,12 @@
-function Analytic() {
+function Test() {
     return (
       <div>
         <div className="container">
-          <h1>Analytic</h1>
+          <h1>Test</h1>
         </div>
       </div>
     );
   }
   
-  export default Analytic;
+  export default Test;
   
